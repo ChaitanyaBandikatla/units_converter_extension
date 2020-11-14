@@ -18,7 +18,7 @@
 
 <h2>Materials</h2>
 <ol>
-  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc0rNQ2yRAcff7Y0WUHMXNZqOkkaB196mnBI3Mrt-wzMITKYw/viewform">Sign Up Link Sheet</a></li>
+  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc0rNQ2yRAcff7Y0WUHMXNZqOkkaB196mnBI3Mrt-wzMITKYw/viewform">Google form used to evaluate</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1eiEOabLgA10kPQjgngsA3AiaYW7Q4tCdVtpvooA2MW8/edit#gid=0">Evaluation Sheet</a></li>
 </ol>
 <h2>Observations</h2>
