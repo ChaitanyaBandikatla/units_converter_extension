@@ -30,17 +30,24 @@
 <p>However, as we see in few scenarios, the difference in time taken is considerably less, and the following analysis helps gather more evidence for the hypothesis</p>
 <p><b>The following observations are made based on comparison of time taken to answer specific questions</b></p>
 <ol>
-<li>Time taken to answer Question 12<br><img src="https://github.com/ChaitanyaBandikatla/units_converter_extension/blob/master/Project3/Time%20taken%20to%20answer%20Q12.png"><br>Candiates took the most time to debug logical errors in Rust, followed by Go and then Ruby.</li>
+<li>Time taken to answer Question 12<br><img src="https://github.com/ChaitanyaBandikatla/units_converter_extension/blob/master/Project3/Time%20taken%20to%20answer%20Q12.png"><br></li>
   <li>Time taken to answer Question 7<br><img src="https://github.com/ChaitanyaBandikatla/units_converter_extension/blob/master/Project3/Time%20taken%20to%20answer%20Q7.png"></li>
   </ol>
-<p>Based on the results, we found that only people who are unfamilair in Rust and Ruby took more time than people knew the language before. The reults for Go seems almost similar with people who know the language or not.</p>
-<h2>Conclusion</h2>
+<p>The above graphs show that most of the subjects took considerably higher time to answer Question 12 and Question 7 using other tools when compared to using extension. These questions are centered around the conversion of length (miles to metres), and temperature. Hence, we can say that the extension provides a considerable advantage over other tools in these specific conversion areas.</p>
 <ol>
-  <li>Candidates were most familiar with Ruby and least familiar with Rust.</li>
-  <li>Candidates found it harder to debug in Rust when compared to Ruby or Go. They found this language to be very unfamiliar and hard to understand. </li>
-  <li>Candidates found it easy to debug logical errors in Ruby. Some of them mentioned the syntax to be like Python, hence making the code easily understandable.</li>
-  <li>4 out of 9 Candidates used print statements to debug code. 2 candidates referred online resources for debugging.</li>
-  <li>Hence, familiarity with the language helped candidates to debug the code faster. The hypothesis we tested against is correct.</li>
+<li>Time taken to answer Question 9<br><img src="https://github.com/ChaitanyaBandikatla/units_converter_extension/blob/master/Project3/Time%20taken%20to%20answer%20Q9.png"><br></li>
+  </ol>
+<p>The above graph shows that most of the subjects almost same time to answer Question 9 using other tools when comapared to using extension. This question is centred arounf the conversion of length (yards to km). This observation given us an interesting point that the tool is not very efficient in all the scenarios, and one such scenario is Question 9.</p>
+<li>When we observe the time taken by all the subjects to answer Question 1 by using other tools, it is considerably higher than time taken to answer other questions. This is primarily because it involves the time taken by the subject to get started on using the other tools. This helps us drive an important usecase for the extension which is that the extension does not involve setting up or the time taken to get started to use on the fly, rather it provides the users with results by merely selecting the text they want to convert.</li>
+
+<h2>Conclusion</h2>
+Based on the above observations we can drive to the following conclusion
+<ol>
+  <li>The tool helps users to convert the values they wish in considerably less time when compared to other tools like Google, web search, etc.</li>
+  <li>The tool helps users considerably higher in converting specific set of values (or metrics), in terms of time. </li>
+  <li>The tool helps even though does not provide considerable advantage in all scenarios, it does provide almost the same performance if not better when compared to other tools, in terms of time.</li>
+  <li>The tool has an advantage of no initial getting started time every time the user wishes to perform a conversion. It acts on the fly which also avoids the conext switching for users.</li>
+  <li>Based on the verbal feedback collected from the subjects, we can say that the tool even though is not perfect, it is helpful. One major pain point reported is that it does not allowing copying the converted values to clipboard, which can prove to be a major advantage to the users.</li>
 </ol>
 <h2>Threats to Validity</h2>
 <table style="width:100%">
