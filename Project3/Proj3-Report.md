@@ -25,14 +25,13 @@
 <p><b>The following observations are made based on comparing the total time taken to complete the quiz</b></p>
 <ol>
   <br><img src="https://github.com/ChaitanyaBandikatla/units_converter_extension/blob/master/Project3/Total%20time%20taken.png"><br>
-  <li>From the above graph, we can see that all the subjects took less time to complete the quiz using the extension when compared to using other tools like Google, web search, other extensions from marketplace.</li>
+  From the above graph, we can see that all the subjects took less time to complete the quiz using the extension when compared to using other tools like Google, web search, other extensions from marketplace.
 </ol>
-<p>In our pre-debugging sessions census, we asked the level of familiarity of the 3 languages by each candidate. Based on the results, we found that there  is very minute difference to debug a complication error with prior knowledge of the language.</p>
-<p><b>The following observations were made for Logical Errors:</b></p>
+<p>However, as we see in few scenarios, the difference in time taken is considerably less, and the following analysis helps gather more evidence for the hypothesis</p>
+<p><b>The following observations are made based on comparison of time taken to answer specific questions</b></p>
 <ol>
-<li>Time taken to debug logical errors in Ruby, Rust and Go<br><img src="https://github.com/ChaitanyaBandikatla/GameOfLife/blob/master/img/logical_debug_time.PNG"><br>Candiates took the most time to debug logical errors in Rust, followed by Go and then Ruby.</li>
-  <li>Time taken by candidates familiar in the language to debug logical errors<br><img src="https://github.com/ChaitanyaBandikatla/GameOfLife/blob/master/img/logical_familiar_time.PNG"></li>
-  <li>Time taken by candidates unfamiliar in the language to debug logical errors<br><img src="https://github.com/ChaitanyaBandikatla/GameOfLife/blob/master/img/logical_unfamiliar_time.PNG"></li>
+<li>Time taken to answer Question 12<br><img src="https://github.com/ChaitanyaBandikatla/units_converter_extension/blob/master/Project3/Time%20taken%20to%20answer%20Q12.png"><br>Candiates took the most time to debug logical errors in Rust, followed by Go and then Ruby.</li>
+  <li>Time taken to answer Question 7<br><img src="https://github.com/ChaitanyaBandikatla/units_converter_extension/blob/master/Project3/Time%20taken%20to%20answer%20Q7.png"></li>
   </ol>
 <p>Based on the results, we found that only people who are unfamilair in Rust and Ruby took more time than people knew the language before. The reults for Go seems almost similar with people who know the language or not.</p>
 <h2>Conclusion</h2>
