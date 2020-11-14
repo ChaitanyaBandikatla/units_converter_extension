@@ -24,9 +24,8 @@
 <h2>Observations</h2>
 <p><b>The following observations are made based on comparing the total time taken to complete the quiz</b></p>
 <ol>
-  <li>Time taken to debug compilation errors in Ruby, Rust and Go<br><img src="https://github.com/ChaitanyaBandikatla/GameOfLife/blob/master/img/compilation_debug_time.PNG"><br>Candidates took more time to debug compilation erros in Ruby when compared to Rust and Go</li>
-  <li>Time taken by candidates familiar in the language to debug compilation errors<br><img src="https://github.com/ChaitanyaBandikatla/GameOfLife/blob/master/img/compilation_familiar_time.PNG"></li>
-  <li>Time taken by candidates unfamiliar in the language to debug compilation errors<img src="https://github.com/ChaitanyaBandikatla/GameOfLife/blob/master/img/compilation_unfamiliar_time.PNG"></li>
+  <br><img src="https://github.com/ChaitanyaBandikatla/units_converter_extension/blob/master/Project3/Total%20time%20taken.png"><br>
+  <li>From the above graph, we can see that all the subjects took less time to complete the quiz using the extension when compared to using other tools like Google, web search, other extensions from marketplace.</li>
 </ol>
 <p>In our pre-debugging sessions census, we asked the level of familiarity of the 3 languages by each candidate. Based on the results, we found that there  is very minute difference to debug a complication error with prior knowledge of the language.</p>
 <p><b>The following observations were made for Logical Errors:</b></p>
