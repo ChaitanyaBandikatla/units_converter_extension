@@ -56,15 +56,11 @@ Based on the above observations we can drive to the following conclusion
     <th>Possible Solution</th>
   </tr>
   <tr>
-    <td>We didn't have a benchmark to compare our results with.</td>
-    <td>We should have timed and taken the debugging sessions ourselves to observe how we debug the bugs we created.</td>
+    <td>The google form although tries to test users on various metrics, in reality, the metrics used by users is largely based on their daily usage.</td>
+    <td>A possible solution to this might be to collect observations on a comparatively large group of subjects with varied daily usage patterns, and test the tool on specific conversions.</td>
   </tr>
   <tr>
-    <td>We didn't have a standardised code testings as we introduced different kinds of bugs in different languages.</td>
-    <td>We should have introduced the same bugs in all the languages and asked the candidates to debug in the language that they are the most familiar with.</td>
-  </tr>
-  <tr>
-    <td>We didn't take a post survey after the debugging sessions.</td>
-    <td>Metrics collected from the post survey could have helped us understand more about the candidates perspective while they debugged the code in different languages.</td>
+    <td>The tool is specific to Google Chrome web browser, and hence does not include metrics against tools on other web browsers. This limits the validity of hypothesis to users only using Google Chrome</td>
+    <td>A possible solution could be to collect the metrics on the usage of other browsers, and develop a similar solution compatible with other web browser if the usage patterns seem fit.</td>
   </tr>
 </table>
